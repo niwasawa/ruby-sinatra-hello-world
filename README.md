@@ -2,7 +2,7 @@
 
 A sample code of Ruby with Sinatra
 
-## Deploy the app to Heroku
+## Deploy this app to Heroku
 
 ```
 $ git clone git@github.com:niwasawa/ruby-sinatra-hello-world.git
