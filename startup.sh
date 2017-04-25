@@ -1,2 +1,2 @@
-ruby myapp.rb
+bundle exec ruby myapp.rb
 
