@@ -7,7 +7,8 @@ A sample code of Ruby with Sinatra
 ```
 $ git clone https://github.com/niwasawa/ruby-sinatra-hello-world.git
 $ cd ruby-sinatra-hello-world/
-$ bundle install --path vendor/bundle
+$ bundle config set --local path 'vendor/bundle'
+$ bundle install
 $ bundle exec ruby myapp.rb
 ```
 
